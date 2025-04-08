@@ -5,7 +5,7 @@
 
 
 ## 🔭 Sou especialista em Investimento (Navegando no mundo DEVS)
-## 🌱 Atualmente estou aprendo Python
+
 <!--
 **Inacio-ops/Inacio-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
